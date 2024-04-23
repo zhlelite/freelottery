@@ -25,3 +25,7 @@ npm run build:prod
 
 
 # 最好配合后端接口使用，毕竟纯前端抽奖有点自大了，接口的字段规范在文件中列明了，enjoy!~
+
+
+step1, cnpm install
+step2, cnpm run serve
