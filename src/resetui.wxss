@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/*适配iPhone X*/
+@media only screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
+  .van-tabbar {
+    padding-bottom: 34px;
+  }
+  .content {
+    padding-bottom: 34px;
+  }
+}
+
+@media only screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) {
+  .van-tabbar {
+    padding-bottom: 34px;
+  }
+  .content {
+    padding-bottom: 34px;
+  }
+}
+
+.van-button {
+  border-radius: 5px;
+  font-size: 17px;
+  height: 44px;
+  line-height: 44px;
+}
+
+.van-button--plain.van-button--info {
+  color: #6A5EF4;
+  border: 1px solid #6A5EF4;
+}
+
+.homelistWrap .homelist .van-button {
+  line-height: 1.5;
+}
+
+.van-dialog__message {
+  color: #333;
+  font-size: 18px;
+  line-height: 2;
+}
+
+.van-hairline--top-bottom:after,
+.van-hairline-unset--top-bottom:after {
+  border: none;
+}
