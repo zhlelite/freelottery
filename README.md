@@ -1,7 +1,6 @@
 # lottery
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 这是一个简单的的姓名抽奖程序，可以直接使用。当然你也可以添加一些别的东西，比如手机号etc.
 
 # 本地开发环境（测试地址，正式地址）
 ```
@@ -25,4 +24,4 @@ npm run build:prod
 
 
 
-# 最好配合后端接口使用，接口的字段规范在文件中列明了，enjoy!~
+# 最好配合后端接口使用，毕竟纯前端抽奖有点自大了，接口的字段规范在文件中列明了，enjoy!~
